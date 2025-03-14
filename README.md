@@ -25,7 +25,9 @@
 📅 *2024 | Adapeco*  
 📌 *Nuxt.js / Express / Rapid API / MySQL*  
 - Développement d’une plateforme de streaming en ligne  
-- Gestion dynamique des vidéos et recommandations  
+- Gestion dynamique des vidéos et recommandations
+- https://github.com/navalnorth/chills_front_nuxt.js
+- https://github.com/navalnorth/chills_back_node.js
 
 ### **🤖 Automatisation de tâches - Pixelbot**  
 📅 *2024 | Projet Personnel*  
