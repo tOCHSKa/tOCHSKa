@@ -7,7 +7,7 @@
 ## 🛠️ Compétences  
 
 ### 🔹 **Langages & Frameworks**  
-- **Frontend** : Vue.js, Nuxt.js, JavaScript (ES6+), Bootstrap  
+- **Frontend** : Vue.js, Nuxt.js, JavaScript (ES6+), Bootstrap, TailwindCss & others
 - **Backend** : Node.js, Express.js, Symfony, Python  
 - **Base de données** : MySQL, PostgreSQL  
 
